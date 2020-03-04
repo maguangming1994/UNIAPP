@@ -1,0 +1,1 @@
+<block wx:if="{{is_page_loaded}}"><view><web-view src="{{page_data.site_config.kefu_link}}"></web-view></view></block>

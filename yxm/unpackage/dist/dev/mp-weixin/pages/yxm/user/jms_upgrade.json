@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "升级加盟商",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "bra_level_picker": "/bra/forms/bra_level_picker",
+    "bra_input": "/bra/forms/bra_input"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#239df4",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "预定房间",
+  "enablePullDownRefresh": true,
+  "usingComponents": {}
+}

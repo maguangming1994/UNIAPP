@@ -1,0 +1,14 @@
+
+.weui-label{width:100px}
+.room_num{background:#fff}
+.room_num.selected{background:orangered;color:#fff}
+.bra-bottom-dialog .date{
+    margin:5px 10px;background:#f2f2f2;
+    display:block;
+    text-align:center;
+    padding:8px;
+    font-size:14px;
+}
+.bra-bottom-dialog .date.active{ background:#e85f0f;
+    color:#fff;}
+

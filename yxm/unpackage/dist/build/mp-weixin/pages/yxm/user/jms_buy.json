@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "加盟商补货",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "bra_steper": "/bra/forms/bra_steper"
+  }
+}

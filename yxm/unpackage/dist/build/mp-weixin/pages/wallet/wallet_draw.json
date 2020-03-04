@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "提现",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "bra_input": "/bra/forms/bra_input"
+  }
+}

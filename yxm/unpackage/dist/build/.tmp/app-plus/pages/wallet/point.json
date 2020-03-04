@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#47403e",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "积分",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "rate_star": "/bra/common/rate_star",
+    "item_bienes": "/bra/common/item_bienes"
+  }
+}

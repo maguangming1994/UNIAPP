@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "布拉酒店",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "item_hotel": "/bra/hotel/item_hotel",
+    "uni-list": "/components/uni-list/uni-list",
+    "uni-list-item": "/components/uni-list-item/uni-list-item",
+    "bra_date_period": "/bra/forms/bra_date_period"
+  }
+}

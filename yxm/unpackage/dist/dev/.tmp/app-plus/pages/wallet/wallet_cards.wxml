@@ -1,0 +1,1 @@
+<view class="is-fake-nav"><view class="menus tuandui-list"><block wx:for="{{cards}}" wx:for-item="item" wx:for-index="__i0__"><view class="card-item"><item_card vue-id="{{'1-'+__i0__}}" item="{{item}}" data-event-opts="{{[['^onPull',[['onMhcmsPull']]]]}}" bind:onPull="__e" bind:__l="__l"></item_card></view></block></view></view>

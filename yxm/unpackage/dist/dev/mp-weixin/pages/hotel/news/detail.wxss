@@ -1,0 +1,5 @@
+
+._img,image{
+    max-width:100%;
+}
+

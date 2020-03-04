@@ -1,0 +1,57 @@
+.full_screen{width:750upx;height:100vh;background:#f3f3f3;
+    display: block;}
+.bra-index-block{
+    margin: 26upx;
+    padding:26upx;
+}
+.bra-full-block  .bra-block-title{
+    width: 100%;line-height:2.5rem;
+    padding: .133333rem 0;
+    border-bottom: .013333rem solid #e0e0e0;
+    background-color: #fff;
+}
+.fb{font-weight:bold}
+.fnb{font-weight:normal}
+.bk10{height:20upx}
+.item-tab{font-size:35upx;color:#c8c7cc}
+.item-tab.active{font-size:35upx;color:$uni-color-primary}
+.bra_mask{width:100vh;height:100vh;position:fixed;background:rgba(0,0,0,0.5);top:0}
+.f12{font-size:26upx}
+.f14{font-size:28upx}
+.f16{font-size:30upx}
+.f18{font-size:36upx}
+
+.braui-cells .braui-cell:before {left:54px}
+.braui-cell .iconfont{width:20px;height:20px;margin-right:16px;display:block;font-size:20px}
+
+.bra-user-top-full{}
+.is-flex{display:flex}
+.is-fixed{position:fixed}
+.is-fixed-bottom{
+    bottom: 0;
+    width: 100vw;
+    left: 0;
+    position:fixed;
+}
+.is-clipped{overflow:hidden}
+.round-btn{border-radius: 26px;}
+.centered{margin:auto}
+.flex-centered{align-items:center}
+.img-rounded{border-radius:50%}
+.bb10{border-bottom:solid 16upx  #f1f1f1}
+.bb1{border-bottom:solid 2upx  #f1f1f1}
+
+/** bg colors**/
+.has-bg-blue{
+    background-color:#239df4;
+}
+.bra-tags{
+
+    .bra-tag{
+        display:inline-block;
+        margin:5px 10px 0 0;
+        padding:5px 10px ;
+
+    }
+
+}

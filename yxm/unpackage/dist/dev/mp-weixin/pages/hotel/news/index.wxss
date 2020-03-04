@@ -1,0 +1,22 @@
+
+.bra-scroll-view_H{
+    white-space: nowrap;
+    display: inline-block;
+    background: #fff;
+    height: 80rpx;
+}
+.bra-scroll-view_H .bra-scroll-view-item_H{
+    display: inline-block;
+    overflow: hidden;
+    font-size: 32rpx;
+    padding: 5rpx 20rpx;
+    line-height: 80rpx;
+}
+.bra-scroll-view_H .bra-scroll-view-item_H.active{
+    color: #ff7852;
+    border-bottom: solid 2px #ff7852;
+    margin-top: -2px;
+    font-weight:bold;
+    font-size:20px;
+}
+

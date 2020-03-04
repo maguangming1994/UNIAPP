@@ -1,0 +1,1 @@
+<block wx:if="{{is_page_loaded}}"><view class="full_screen has-background-white"><view class="page__hd padded bb1 _div" style="padding:20px;"><view class="page__title f18 fb _div">用户协议</view></view><view class="f16" style="padding:20px;"><rich-text nodes="{{page_data.member.reg_term}}"></rich-text></view></view></block>

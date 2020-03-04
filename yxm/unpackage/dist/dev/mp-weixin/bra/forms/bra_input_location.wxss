@@ -1,0 +1,20 @@
+
+.map-picker{
+    position: absolute;
+    right: -5rpx;
+    padding: 0 15rpx;
+    z-index: 9999;
+    height: 80rpx;
+    top:15rpx;
+}
+.map-picker .iconfont{
+    font-size: 40rpx;
+    line-height: 80rpx;
+}
+.extra_txt{
+    position: absolute;
+    right: 0;
+    font-size: 12px;
+    color: #aaa;
+}
+

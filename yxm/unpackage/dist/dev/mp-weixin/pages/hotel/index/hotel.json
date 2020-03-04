@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "酒店列表",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "filter_single": "/bra/filter/single",
+    "filter_area": "/bra/filter/area",
+    "rate_star": "/bra/common/rate_star"
+  }
+}

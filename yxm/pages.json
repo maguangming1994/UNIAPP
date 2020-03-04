@@ -1,0 +1,405 @@
+{
+  "pages": [
+    {
+      "path": "pages/hotel/index/index",
+      "style": {
+        "navigationBarTitleText": "布拉酒店",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/hotel/index/hotel_yuding",
+      "style": {
+        "navigationBarBackgroundColor": "#239df4",
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "预定房间",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/bra/common/change_area",
+      "style": {
+        "navigationBarTitleText": "切换地区",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/bra/common/reg_term",
+      "style": {
+        "navigationBarTitleText": "用户协议",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/bra/common/ann_detail",
+      "style": {
+        "navigationBarTitleText": "公告详情",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/bra/common/kefu",
+      "style": {
+        "navigationBarTitleText": "在线客服",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": {
+            "autoBackButton":false,
+
+            "buttons": [
+              {
+                "float" : "left" ,
+                "type" : "back"
+              }
+            ]
+          }
+
+        }
+      }
+    },
+    {
+      "path": "pages/hotel/index/hotel",
+      "style": {
+        "navigationBarTitleText": "酒店列表",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/hotel/index/coupon",
+      "style": {
+        "navigationBarTitleText": "优惠卷领取",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/hotel/index/hotel_detail",
+      "style": {
+        "navigationBarTitleText": "酒店详情",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/hotel/user/order_detail",
+      "style": {
+        "navigationBarTitleText": "订单详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/share/share",
+      "style": {}
+    },
+    {
+      "path": "pages/hotel/user/index",
+      "style": {
+        "navigationBarTitleText": "会员中心",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/yxm/user/index",
+      "style": {
+        "navigationBarTitleText": "小幂中心",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/yxm/user/my_poster",
+      "style": {
+        "navigationBarTitleText": "我的海报",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/hotel/news/index",
+      "style": {
+        "navigationBarTitleText": "资讯",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/hotel/news/detail",
+      "style": {
+        "navigationBarTitleText": "资讯详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/hotel/user/my_orders",
+      "style": {
+        "navigationBarTitleText": "我住过的",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/hotel/user/store_join",
+      "style": {
+        "navigationBarTitleText": "酒店入驻",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/hotel/user/my_coupon",
+      "style": {
+        "navigationBarTitleText": "我的优惠卷",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/yxm/user/apply",
+      "style": {
+        "navigationBarTitleText": "共享干衣架",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/yxm/user/jms_idx",
+      "style": {
+        "navigationBarTitleText": "合伙人中心",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/yxm/user/lyy_idx",
+      "style": {
+        "navigationBarTitleText": "小幂仓库",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/yxm/user/lyy_buy",
+      "style": {
+        "navigationBarTitleText": "领养新小幂",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/user/login",
+      "style": {
+        "navigationBarTitleText": "用户登录",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/user/register",
+      "style": {
+        "navigationBarTitleText": "用户注册",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/user/change_password",
+      "style": {
+        "navigationBarTitleText": "修改密码",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/user/field_update",
+      "style": {
+        "navigationBarTitleText": "修改资料",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/user/info",
+      "style": {
+        "navigationBarTitleText": "个人资料",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/user/setting",
+      "style": {
+        "navigationBarTitleText": "设置",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/user/bind_wechat",
+      "style": {
+        "navigationBarTitleText": "绑定微信",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/wallet/point",
+      "style": {
+        "navigationBarBackgroundColor": "#47403e",
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "积分",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/wallet/wallet_idx",
+      "style": {
+        "navigationBarTitleText": "我的资产",
+        "enablePullDownRefresh": true,
+        "navigationBarBackgroundColor": "#ff7528",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/wallet/wallet_draw",
+      "style": {
+        "navigationBarTitleText": "提现",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/wallet/wallet_deposit",
+      "style": {
+        "navigationBarTitleText": "充值",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+
+    {
+      "path": "pages/wallet/wallet_cards",
+      "style": {
+        "navigationBarTitleText": "我的银行卡",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/wallet/wallet_card_add",
+      "style": {
+        "navigationBarTitleText": "绑定银行卡",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/yxm/user/jms_upgrade",
+      "style": {
+        "navigationBarTitleText": "升级加盟商",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/yxm/user/jms_buy",
+      "style": {
+        "navigationBarTitleText": "加盟商补货",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/yxm/user/my_team",
+      "style": {
+        "navigationBarTitleText": "我的团队",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    },
+    {
+      "path": "pages/yxm/user/my_profit",
+      "style": {
+        "navigationBarTitleText": "我的收益",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+        }
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "borderStyle": "black",
+    "backgroundColor": "#fff",
+    "color": "#8F8F94",
+    "selectedColor": "#f33e54",
+    "list": [
+      {
+        "pagePath": "pages/hotel/index/index",
+        "iconPath": "static/img/tabbar/tab1.png",
+        "selectedIconPath": "static/img/tabbar/tab1a.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/hotel/news/index",
+        "iconPath": "static/img/tabbar/tab2.png",
+        "selectedIconPath": "static/img/tabbar/tab2a.png",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/hotel/user/index",
+        "iconPath": "static/img/tabbar/tab5.png",
+        "selectedIconPath": "static/img/tabbar/tab5a.png",
+        "text": "我的"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "酒店详情",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "bra_date_period": "/bra/forms/bra_date_period"
+  }
+}

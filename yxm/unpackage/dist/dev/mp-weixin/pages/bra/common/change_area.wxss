@@ -1,0 +1,32 @@
+
+.letter{
+    width:12%;
+    text-align:center;
+    padding:10px 0;
+    font-size: 28rpx;
+}
+.letter-section{
+    margin-bottom:10px;overflow:hidden;background: #fff;
+}
+.letter .le{
+    width:35px;height:35px;line-height:35px;text-align:center;margin:auto;
+}
+.letter.active .le{
+   background: #10aeff;color: #fff;border-radius:5px;
+}
+.letter-item{
+    width: 33%;float: left;
+}
+.mhcms-panel-header{
+    line-height: 35px;
+    padding-left: 25px;
+}
+.letter-item-city{
+    text-align:center;
+    border-right:solid 1px #ccc;
+    margin:1px;
+    line-height:35px;
+    font-size:28rpx;
+}
+
+

@@ -1,0 +1,20 @@
+
+.b-title{
+    font-size: 28rpx;
+    font-weight: 700;
+    color: #333333;
+}
+.b-point{
+        color: #ff5274;
+        line-height: 70rpx;
+}
+.avatar{
+        width: 350rpx;
+        height: 220rpx;
+}
+.avatar-img{
+        clear: both;
+        width:  350rpx;
+        height: 220rpx;
+}
+

@@ -1,0 +1,12 @@
+
+.is-flex .iconfont{
+    font-size:23px;
+}
+.bra-step{
+    min-width:30px;
+    border:solid 1px #f3f3f3;
+    text-align:center;
+    line-height:32px;
+    margin:0 15px;
+}
+

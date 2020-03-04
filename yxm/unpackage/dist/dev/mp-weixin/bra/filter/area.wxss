@@ -1,0 +1,9 @@
+
+.padded{padding:10px;position:relative}
+.bra-list-item{background:#fafafa;padding:10px}
+.bra-list-item.picked{background:#fff;}
+.picked .item-inner{padding-left:33px;border-left:solid 2px #007aff}
+.area .bra-list{
+    height:50vh;overflow:scroll;
+}
+

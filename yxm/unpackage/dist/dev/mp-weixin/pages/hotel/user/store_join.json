@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "酒店入驻",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "bra_level_picker": "/bra/forms/bra_level_picker",
+    "bra_input": "/bra/forms/bra_input",
+    "bra_upload_multi": "/bra/forms/bra_upload_multi",
+    "bra_input_location": "/bra/forms/bra_input_location"
+  }
+}

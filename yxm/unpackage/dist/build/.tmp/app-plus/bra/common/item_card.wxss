@@ -1,0 +1,73 @@
+
+.unbind{
+    position: absolute;
+    color: #fff;
+    width: 65rpx;
+    height: 45rpx;
+    line-height: 45rpx;
+    border-radius: 5rpx;
+    text-align: center;
+    border: solid 1px #fff;
+    bottom: 25rpx;
+    right: 30rpx;
+}
+.item-card{
+    padding: 33rpx;
+    margin-top: 33rpx;
+    border-radius: 8rpx;
+}
+.item-card .address{
+    font-size: 26rpx;
+    overflow: hidden;
+    font-weight: 300;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 100%;
+
+    line-height:88rpx;
+}
+.item-comp  .is-narrow{
+    margin-right: 20rpx;
+}
+.item-comp ._img{
+    width: 300rpx;
+    height: 221rpx;
+    border-radius: 5px;
+}
+.item-comp .avatar{
+    width: 150rpx;
+    height: 150rpx;
+    border-radius: 50%;
+    box-shadow: 0 0 5px #ccc;
+}
+.item-comp{
+    margin-top: 30rpx;
+    padding-bottom: 30rpx;
+}
+.item-comp ._img{
+    width: 150rpx;
+    height: 150rpx;
+    border-radius: 50%;
+}
+.rec_agents ._img{
+    width: 45rpx;
+    height: 45rpx;
+    border-radius: 50%;
+    margin-right: 15rpx;
+    margin-top: 16rpx;
+}
+.cert-btn{
+    background: #7ed321;
+    color: #fff;
+    font-size: 20rpx;
+    line-height: 40rpx;
+    display: inline-block;
+    padding: 0 15rpx;
+    margin-left: 24rpx;
+    border-radius: 6rpx;
+    font-weight: 300;
+}
+
+/** esf end */
+
+

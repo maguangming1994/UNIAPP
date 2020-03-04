@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "rate_star": "/bra/common/rate_star"
+  },
+  "component": true
+}
